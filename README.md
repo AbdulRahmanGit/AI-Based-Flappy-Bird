@@ -1,6 +1,4 @@
-Sure, here's a basic README.md file template for your AI Flappy Bird project:
-
----
+https://replit.com/@anasrahman8786/AI-Based-Flappy-Bird#flappy.py
 
 # AI Flappy Bird
 
