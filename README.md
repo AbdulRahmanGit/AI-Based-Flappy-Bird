@@ -13,11 +13,11 @@ This project is a recreation of the classic game Flappy Bird, with the added fea
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/AbdulRahmanGit/ai-flappy-bird.git
+   git clone https://github.com/AbdulRahmanGit/AI-Based-Flappy-Bird.git
    ```
 2. Navigate to the project directory:
    ```
-   cd ai-flappy-bird
+   cd AI-Based-Flappy-Bird
    ```
 3. Install dependencies:
    ```
