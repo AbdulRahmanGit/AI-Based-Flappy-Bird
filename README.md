@@ -1,4 +1,4 @@
-https://replit.com/@anasrahman8786/AI-Based-Flappy-Bird#flappy.py
+[![Run on Repl.it](https://repl.it/badge/github/techwithtim/NEAT-Flappy-Bird)]https://replit.com/@anasrahman8786/AI-Based-Flappy-Bird#flappy.py
 
 # AI Flappy Bird
 
